@@ -16,3 +16,9 @@
     align-items: center;
 
 }
+.avatar flex flex-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
