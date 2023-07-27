@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.exotic{ display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 661px;
+    height: 172px;
+    color: #FFF;
+font-family: Lato;
+font-size: 72px;
+font-weight: 800;
+padding-top: 305px;
+margin-left: 389px;
+}
